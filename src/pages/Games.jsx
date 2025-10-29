@@ -31,7 +31,7 @@ const Games = () => {
       <h1 className="text-xl font-bold">
         All Plant <span className="text-[#0B5E06]">({games.length})</span>
       </h1>
-      <div className="min-h-[calc(100vh-285px)] grid grid-cols-3 mx-auto gap-5">
+      <div className="min-h-[calc(100vh-285px)] grid md:grid-cols-3 mx-auto gap-5">
         {games?.map((game) => (
           <GameCard key={game.id} game={game} />
         ))}

@@ -2,8 +2,8 @@
 
 ![](/src/assets/Screenshot_2.png)
 
-**Live URL:** [https://your-live-url.netlify.app](https://your-live-url.netlify.app)  
-**GitHub Repo:** [https://github.com/your-username/gamehub](https://github.com/your-username/gamehub)
+**Live URL:** [https://ph-game-hub.vercel.app/s](https://ph-game-hub.vercel.app/s)  
+**GitHub Repo:** [https://ph-game-hub.vercel.app/](https://ph-game-hub.vercel.app/)
 
 Gamehub is an engaging online library for discovering and supporting indie game developers.
 Users can browse games, read details, and install them if they like.
