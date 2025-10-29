@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "Player Unknowns Battle Ground: PUBG",
+    "coverPhoto": "https://i.ibb.co.com/nqkD81hh/Player-Unknowns-Battle-Ground-PUBG.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
+    "ratings": "4.5",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Call of Duty: Mobile",
+    "coverPhoto": "https://i.ibb.co.com/m5ZM5y4C/Call-of-Duty-Mobile.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.callofduty.com/mobile",
+    "description": "Call of Duty: Mobile brings iconic maps, modes, and characters from the Call of Duty franchise to mobile devices.",
+    "ratings": "4.7",
+    "developer": "Activision"
+  },
+  {
+    "id": "3",
+    "title": "Fortnite",
+    "coverPhoto": "https://i.ibb.co.com/Gf7L1VpN/Fortnite.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.epicgames.com/fortnite/en-US/home",
+    "description": "Fortnite is a battle royale game featuring creative building mechanics, vibrant graphics, and fast-paced action.",
+    "ratings": "4.6",
+    "developer": "Epic Games"
+  },
+  {
+    "id": "4",
+    "title": "Apex Legends Mobile",
+    "coverPhoto": "https://i.ibb.co.com/Qjcvvd2N/Apex-Legends-Mobile.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://www.ea.com/games/apex-legends",
+    "description": "Apex Legends Mobile delivers squad-based hero shooter gameplay with unique abilities and tactical combat.",
+    "ratings": "4.4",
+    "developer": "Respawn Entertainment"
+  },
+  {
+    "id": "5",
+    "title": "Clash of Clans",
+    "coverPhoto": "https://i.ibb.co.com/BKC4GxyG/Clash-of-Clans.jpg",
+    "category": "Strategy",
+    "downloadLink": "https://supercell.com/en/games/clashofclans/",
+    "description": "Clash of Clans is a village-building strategy game where players attack and defend using armies and heroes.",
+    "ratings": "4.8",
+    "developer": "Supercell"
+  },
+  {
+    "id": "6",
+    "title": "Free Fire",
+    "coverPhoto": "https://i.ibb.co.com/wNRsJ4vX/Free-Fire.jpg",
+    "category": "Battle Royale",
+    "downloadLink": "https://ff.garena.com/",
+    "description": "Garena Free Fire is a survival shooter game where players compete to be the last person standing on a remote island.",
+    "ratings": "4.3",
+    "developer": "Garena"
+  },
+  {
+    "id": "7",
+    "title": "Minecraft",
+    "coverPhoto": "https://i.ibb.co.com/VW4mpBr9/Minecraft.jpg",
+    "category": "Sandbox",
+    "downloadLink": "https://www.minecraft.net/en-us",
+    "description": "Minecraft allows players to explore, build, and survive in an infinite blocky world full of creativity and adventure.",
+    "ratings": "4.9",
+    "developer": "Mojang Studios"
+  },
+  {
+    "id": "8",
+    "title": "Among Us",
+    "coverPhoto": "https://i.ibb.co.com/ynWJPZTw/Among-Us.jpg",
+    "category": "Party",
+    "downloadLink": "https://www.innersloth.com/games/among-us/",
+    "description": "Among Us is a social deduction game where players work together to complete tasks and uncover impostors.",
+    "ratings": "4.2",
+    "developer": "Innersloth"
+  },
+  {
+    "id": "9",
+    "title": "Genshin Impact",
+    "coverPhoto": "https://i.ibb.co.com/vxnZjfWX/Genshin-Impact.jpg",
+    "category": "RPG",
+    "downloadLink": "https://genshin.hoyoverse.com/en/",
+    "description": "Genshin Impact is an open-world action RPG featuring elemental combat, exploration, and beautiful anime-style graphics.",
+    "ratings": "4.7",
+    "developer": "HoYoverse"
+  },
+  {
+    "id": "10",
+    "title": "Valorant",
+    "coverPhoto": "https://i.ibb.co.com/60kdgk6z/Valorant.jpg",
+    "category": "FPS",
+    "downloadLink": "https://playvalorant.com/",
+    "description": "Valorant is a tactical first-person shooter that blends precise gunplay with unique agent abilities for strategic battles.",
+    "ratings": "4.6",
+    "developer": "Riot Games"
+  }
+]
